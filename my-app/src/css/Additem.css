@@ -1,0 +1,102 @@
+.item-list{
+    border:red 1px solid;
+    width: 54%;
+    float: left;
+    min-height: 200px;
+   
+    }
+
+.form-container{
+    width:45%;
+    border: blue 1px solid;
+    float:right;  
+    height:1000px;;
+    background-color: aqua
+}
+
+.button{
+    margin-left:10px;
+    border-radius: 20%;
+    width: 100px;
+    height: 30px;
+    margin-top:20px;
+    color: hsl(0, 0%, 100%);
+    font: bold;
+    font-size: 20px
+
+}
+
+#button-1{
+    background-color: rgb(37, 179, 60);
+    border: 1px solid green;
+    text-decoration: none;
+}
+
+#button-2{
+    background-color: rgb(212, 28, 28);
+    border: 1px solid red;
+    text-decoration: none
+}
+
+#button-3{
+    background-color: rgb(212, 28, 28);
+    border: 1px dotted red;
+    display:block;
+    margin-top: -30px;
+    margin-left:300px;
+
+}
+
+#button-4{
+    background-color: rgb(37, 179, 60);
+    border: 1px solid green;
+    margin-top: -30px;
+
+}
+
+.button-box{
+display: inline-flex;
+margin-top:-20px
+}
+
+.form{
+    display: inline-block;
+    width: 200px;
+    margin-top:3px;
+
+
+}
+
+.input-field{
+    margin-top: 2px;
+     margin-bottom:20px;
+    border-radius:50px;
+    border: rgb(0, 162, 255) 2px solid;
+    width:230px;
+    height: 30px;
+    text-indent: 10px;
+}
+
+.headingType{
+    display:flex;
+    line-height:1px;
+    font-style: normal;
+    font-weight: 10px;
+    
+}
+
+.display-list{
+    background-color: aquamarine
+    
+}
+
+.date-place{
+    
+    margin-bottom: -100px;
+}
+
+Link{
+    text-decoration: none;
+    color:black
+}
+
